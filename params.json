@@ -1,6 +1,6 @@
 {
   "name": "2016-gumo-3-1",
   "tagline": "",
-  "body": "# 2016-gumo-3-1\r\n\r\n안녕하세요.\r\n\r\n![twice](https://c.tadst.com/gfx/750w/sunrise-sunset-sun-calculator.jpg?1)  \r\n![sunset](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLHCuSNH7J8Hu30QE_CBlBo_X-Ycb088_9B3FdBza_wQSvBHLVNQ)  \r\n워드프레스/마크다운 문법\r\n<http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/>  \r\n[lgvsnc](https://www.youtube.com/watch?v=c4Wzx7C6XPU)  \r\n\r\n",
+  "body": "# 2016-gumo-3-1\r\n\r\n안녕하세요.\r\n\r\n![twice](https://c.tadst.com/gfx/750w/sunrise-sunset-sun-calculator.jpg?1)  \r\n[![sunset](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLHCuSNH7J8Hu30QE_CBlBo_X-Ycb088_9B3FdBza_wQSvBHLVNQ)](https://www.youtube.com/watch?v=c4Wzx7C6XPU)\r\n\r\n워드프레스/마크다운 문법\r\n<http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/> \r\n\r\n[pdf](https://drive.google.com/file/d/0B25CKzP05RtTMXlRbHVQSUFDRWM/view?usp=sharing)\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
